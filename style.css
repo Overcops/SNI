@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    color:rgba(0,0,0);
+    line-height: 1.8;
+    margin: 0;
+}
+
+.Topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: white;
+    padding: 31px 346px;
+}
+
+.Topbar nav {
+    float:left;
+}
+
+.Topbar nav a {
+    color: rgba(65, 62, 62, 0.856);
+    text-decoration: none;
+    font-weight: 500;
+    margin: 0 36px;
+}
+
+.Topbar nav a:hover {
+    color: black;
+}
+.Topbar .Menu {
+    float: left;
+    opacity: .5;
+}
+
+.Topbar .Menu:hover {
+    opacity: 1;
+}
+
+.Post1 img {
+    height: auto; 
+    width: 100%;
+    padding: 100px 100px 62px;
+    
+}
+
+.Post2 img {
+    float: left;
+    height: auto; 
+    width: 50%;
+    padding: 0px 100px 62px;
+    
+}
+
+.Post3 img {
+    float: right;
+    height: auto; 
+    width: 33%;
+    padding: 0px 100px 12px;
+    
+}
+
+.Post4 img {
+    float: right;
+    height: auto; 
+    width: 33%;
+    padding: 0px 100px 62px;
+    
+}
