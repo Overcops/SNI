@@ -79,6 +79,7 @@ body {
     float: center;
     height: auto; 
     width: 100%;
-    padding: 100px 100px 62px;
+    margin:0px 0px 0px;
+    padding: 10px 100px 62px ;
     
 }
