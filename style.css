@@ -44,6 +44,7 @@ body {
 }
 
 .Post1 img {
+    float: center;
     height: auto; 
     width: 100%;
     padding: 100px 100px 62px;
@@ -71,5 +72,13 @@ body {
     height: auto; 
     width: 33%;
     padding: 0px 100px 62px;
+    
+}
+
+.Post5 img {
+    float: center;
+    height: auto; 
+    width: 100%;
+    padding: 10px 100px 0px;
     
 }
