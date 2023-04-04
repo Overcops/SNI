@@ -43,43 +43,25 @@ body {
     opacity: 1;
 }
 
-.Post1 img {
-    float: center;
-    height: auto; 
-    width: 100%;
-    padding: 100px 100px 62px;
-    
+.first-Post {
+    float: center center;
+    height: 290px; 
+    width: 900px;
+    margin: 0px 190px 0px;
 }
 
-.Post2 img {
+.Second-Post {
     float: left;
-    height: auto; 
-    width: 50%;
-    padding: 0px 100px 62px;
-    
+    height: 180px; 
+    width: 290px;
+    margin: 0px 800px 0px;
 }
 
-.Post3 img {
-    float: right;
-    height: auto; 
-    width: 33%;
-    padding: 0px 100px 12px;
-    
-}
-
-.Post4 img {
-    float: right;
-    height: auto; 
-    width: 33%;
-    padding: 0px 100px 62px;
-    
-}
-
-.Post5 img {
-    float: center;
-    height: auto; 
-    width: 100%;
-    margin:0px 0px 0px;
-    padding: 10px 100px 62px ;
-    
+.Post-text1 {
+    font-size: 20px;
+    font-family:sans-serif;
+    background: rgb(125, 241, 140);
+    padding: 31px 346px ;
+    padding-right: 700px;
+    text-align:center;
 }
